@@ -1,3 +1,8 @@
+<html>
+<head>
+
+</head>
+<body>
 # DONGKEUN SHIN 👋
 
 <!--
@@ -14,7 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <br/><br/>
+
+
+  <a href="https://mewing-epoch-d3f.notion.site/1a17c62df4364c21a4f5f88ad78cc202?pvs=4" >포트폴리오</a>
+</div>
+<br/>
 
 # 💪Skills
 
@@ -27,10 +38,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
+</body>
 
 <!--
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 -->
+</html>
 
 
 
