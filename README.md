@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-### [📫 포트폴리오](https://mewing-epoch-d3f.notion.site/1a17c62df4364c21a4f5f88ad78cc202?pvs=4)
+### [📫 포트폴리오](http://kun.works/portfolio)
 
 </div>
 
