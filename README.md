@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-<a href="https://seulseul.dongding.dev">
+<a href="https://seulseul.dongding.dev/about">
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://blog.dongding.dev/card/app/seulseul/?theme=dark&amp;v=4" />
@@ -16,7 +16,7 @@
   </picture>
 </a>
 
-<a href="https://plate.dongding.dev">
+<a href="https://plate.dongding.dev/about">
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://blog.dongding.dev/card/app/plate/?theme=dark&amp;v=4" />
