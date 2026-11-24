@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-<a href="https://seulseul.dongding.dev/about">
+<!-- <a href="https://seulseul.dongding.dev/about">
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://blog.dongding.dev/card/app/seulseul/?theme=dark&amp;v=4" />
@@ -32,4 +32,4 @@
     <img src="https://blog.dongding.dev/card/app/solve-card/?v=4" width="100%"
          alt="Solve-Card — 카드로 한 장씩 넘겨 푸는 나만의 문제집" />
   </picture>
-</a>
+</a> -->
